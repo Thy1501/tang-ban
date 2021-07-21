@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Sương à!'
+    introTitle: 'Sương à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao Sương cứ đi nhầm đường
     Lạc vào tim em lẻ loi
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Tui biết mà 🥰. Yêu Sương nhiều nhiều 😘😘',
     messDesc: 'Tối nay mình call nhá',
     btnAccept: 'Okiiiii lun <3',
-    messLink: ' //https://www.facebook.com/boo.mezi'
+    messLink: ' //https://www.fb.com/boo.mezi'
 }
